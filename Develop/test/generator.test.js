@@ -1,5 +1,5 @@
 //link generator.js
-const Generator = require('../generator')
+const generator = require('../generator')
 
 //When code is runs in terminal then prompted to enter team managers name, employee id, email address, and office number
 
