@@ -5,6 +5,7 @@ The questions ask for the name, title, employee id, email address, and github us
 The user answers are then generated into text in a index.html file that can be viewed in the browser.
 
 Deployed live URL:
-
+https://samanthalord22.github.io/Team-Profile-Generator/
 
 Link to Video of use:
+https://drive.google.com/file/d/1kNFfZwthiHjINBDCmSYHMWgPeXLdrZtH/view?usp=sharing
